@@ -1,0 +1,36 @@
+// Mod Version: 1.2.4
+// edit Xnet
+{
+	
+	"name": "Trinken ist kein Essen",
+	"food": {
+			"items": [
+
+				"harvestcraft:applejuiceItem",
+				"harvestcraft:melonjuiceItem",
+				"harvestcraft:carrotjuiceItem",
+				"harvestcraft:strawberryjuiceItem",
+				"harvestcraft:grapejuiceItem",
+				"harvestcraft:blueberryjuiceItem",
+				"harvestcraft:papajajuiceItem",
+				"harvestcraft:starfruitjuiceItem",
+				"harvestcraft:orangejuiceItem",
+				"harvestcraft:peachjuiceItem",
+				"harvestcraft:limejuiceItem",
+				"harvestcraft:mangojuiceItem",
+				"harvestcraft:pomegranatejuiceItem",
+				"harvestcraft:blackberryjuiceItem",
+				"harvestcraft:raspberryjuiceItem",
+				"harvestcraft:kiwijuiceItem",
+				"harvestcraft:cranberryjuiceItem",
+				"harvestcraft:cactusfruitjuiceItem",
+				"harvestcraft:plumjuiceItem",
+				"harvestcraft:pearjuiceItem",
+				"harvestcraft:apricotjuiceItem",
+				"harvestcraft:grapfruitjuiceItem",
+				"harvestcraft:persimmonjuiceItem"
+			]
+	},
+	
+	"formula": "MAX(0, 1 - count/2)"
+}
