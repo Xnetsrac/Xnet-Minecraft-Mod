@@ -1,0 +1,371 @@
+{
+    "changeItems":[
+        {
+            "name":"BinnieCore:containerGlass",
+            "maxStackSize": 1
+        }
+    ],
+	"changeFoods":[
+		{
+			"name":"harvestcraft:limejuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:applejuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:melonjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:carrotjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:strawberryjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:grapejuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:blueberryjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:cherryjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:papayajuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:starfruitjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:orangejuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:peachjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:mangojuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:pomegranatejuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:blackberryjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:raspberryjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:kiwijuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:cranberryjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:cactusfruitjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:plumjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:pearjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:apricotjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:figjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:grapefruitjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:persimmonjuiceItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		{
+			"name":"harvestcraft:melonsmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		
+		{
+			"name":"harvestcraft:strawberrysmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		
+		{
+			"name":"harvestcraft:lemonsmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		
+		{
+			"name":"harvestcraft:blueberrysmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		
+		{
+			"name":"harvestcraft:cherrysmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},
+		
+		
+		{
+			"name":"harvestcraft:papayasmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},		
+		
+		{
+			"name":"harvestcraft:starfruitsmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},		
+				
+		{
+			"name":"harvestcraft:orangesmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},			
+		
+		{
+			"name":"harvestcraft:bananasmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},			
+		
+		{
+			"name":"harvestcraft:peachsmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},			
+		
+		{
+			"name":"harvestcraft:limesmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},			
+		
+		{
+			"name":"harvestcraft:mangosmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},			
+		
+		{
+			"name":"harvestcraft:pomegranatesmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},					
+		
+		{
+			"name":"harvestcraft:blackberrysmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},					
+	
+		{
+			"name":"harvestcraft:raspberrysmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},					
+	
+		{
+			"name":"harvestcraft:kiwismoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},					
+	
+		{
+			"name":"harvestcraft:apricotsmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},					
+	
+		{
+			"name":"harvestcraft:figsmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},					
+					
+		{
+			"name":"harvestcraft:grapefruitsmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},					
+					
+		{
+			"name":"harvestcraft:persimmonsmoothieItem",
+			"maxStackSize": 16,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},					
+	
+		{
+			"name":"harvestcraft:rootbeersodaItem",
+			"maxStackSize": 1,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},	
+		
+	
+	
+		{
+			"name":"harvestcraft:coffeeItem",
+			"maxStackSize": 1,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		},				
+		
+	{
+			"name":"harvestcraft:coffeeconlecheItem",
+			"maxStackSize": 1,
+			"healAmount":  0,
+			"saturationModifier":  0,
+			"alwaysEdible": true
+		}	
+	]
+}

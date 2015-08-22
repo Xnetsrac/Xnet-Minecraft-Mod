@@ -1,0 +1,80 @@
+{
+    "creativeTabs": [
+	    {
+	        "tabLabel": "1.8 Stuff",
+	        "iconItem": "customitems:sea_lantern"
+	    }
+    ],
+	"blocks":[
+		{
+			"name": "Prismarine",
+			"textureName": "prismarine_rough",
+
+			"toolClass": "pickaxe",
+            "material": "rock",
+            "resistance": 30,
+            "harvestLevel": 0,
+            "hardness": 1.5,
+
+            "creativeTab": "1.8 Stuff"
+		},
+		{
+			"name": "Prismarine Bricks",
+			"textureName": "prismarine_bricks",
+
+			"toolClass": "pickaxe",
+            "material": "rock",
+            "resistance": 30,
+            "harvestLevel": 0,
+            "hardness": 1.2,
+
+            "creativeTab": "1.8 Stuff"
+		},
+		{
+			"name": "Dark Prismarine",
+			"textureName": "prismarine_dark",
+
+			"toolClass": "pickaxe",
+            "material": "rock",
+            "resistance": 30,
+            "harvestLevel": 0,
+            "hardness": 1.5,
+
+            "creativeTab": "1.8 Stuff"
+		},
+		{
+			"name": "Sea Lantern",
+			"textureName": "sea_lantern",
+			
+            "material": "rock",
+            "resistance": 1.5,
+            //"harvestLevel": 0,
+            "hardness": 0.3,
+
+            "lightLevel": 1.0,
+            "stepSound": "glass",
+            "breaks": true,
+            "canSilkHarvest": true,
+
+            "creativeTab": "1.8 Stuff"
+		}
+	],
+
+	"items":[
+		{
+            "name": "Prismarine Crystals",
+            "textureName": "prismarine_crystals",
+			"maxStackSize": 64,
+
+            "creativeTab": "1.8 Stuff"
+		},
+		{
+            "name": "Prismarine Shard",
+            "textureName": "prismarine_shard",
+			"maxStackSize": 64,
+
+            "creativeTab": "1.8 Stuff"
+		}
+	]
+	
+}

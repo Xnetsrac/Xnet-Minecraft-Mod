@@ -22,6 +22,23 @@ found in the core file.
 
 <SAGMillRecipes>
 
+<recipeGroup name="Vanilla">
+    <recipe name="Sandstone" energyCost="2400">
+      <input>
+        <itemStack modID="minecraft" itemName="sandstone" />
+      </input>
+      <output>
+        <itemStack modID="minecraft" itemName="sand" number="4" />
+      </output>
+    </recipe>
+</recipeGroup>
+  <grindingBalls>
+    <excludes>
+      <itemStack modID="minecraft" itemName="sandstone"/>
+    </excludes>
+  </grindingBalls>
+
+
 <!-- Disables all recipes in the group 'Vanilla'
 <recipeGroup name="Vanilla" enabled="false"/> 
 -->
