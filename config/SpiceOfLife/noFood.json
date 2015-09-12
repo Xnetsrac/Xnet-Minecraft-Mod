@@ -1,24 +1,14 @@
-// Mod Version: 1.2.4
 {
-	// Food included in the food group	
-	"name": "Juices",
-	"food": 
-	{
-		"oredict": 
-		[
-			"listAlljuice"
+	"name": "Trinken",
+	"food": {
+		"items": [
+			"harvestcraft:applejuiceItem"
 		]
 	},
-
-	"priority": 3,
-
-	// If true, the foods in this food group will be excluded from diminishing returns
-	// Optional; default if not defined: false
-	"blacklist": true,
-
-	// If true, this food group will not be shown in the tooltip
-	// Note: blacklist food groups are always hidden
-	// Optional; default if not defined: false
-	"hidden": true
-
+	"blacklist": true
 }
+
+
+
+
+
