@@ -16,5 +16,3 @@ recipes.remove(<ExtraUtilities:nodeUpgrade:6>);
 recipes.remove(<ExtraUtilities:nodeUpgrade:5>);
 recipes.removeShaped(<minecraft:bread> * 1, [[<minecraft:wheat> * 1, <minecraft:wheat> * 1, <minecraft:wheat> * 1]]);
 recipes.remove(<Mekanism:AtomicDisassembler:100>);
-recipes.remove(<ExtraUtilities:nodeUpgrad:5>);
-recipes.remove(<ExtraUtilities:nodeUpgrad:6>);
