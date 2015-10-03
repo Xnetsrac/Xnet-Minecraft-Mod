@@ -15,3 +15,6 @@ recipes.remove(<rftools:endergenicBlock>);
 recipes.remove(<ExtraUtilities:nodeUpgrade:6>);
 recipes.remove(<ExtraUtilities:nodeUpgrade:5>);
 recipes.removeShaped(<minecraft:bread> * 1, [[<minecraft:wheat> * 1, <minecraft:wheat> * 1, <minecraft:wheat> * 1]]);
+furnace.remove(<minecraft:bread>);
+furnace.addRecipe(<minecraft:bread> * 1, <harvestcraft:doughItem> * 1, 0);
+mods.thermalexpansion.Furnace.removeRecipe(<EnderIO:itemPowderIngot:8>);
