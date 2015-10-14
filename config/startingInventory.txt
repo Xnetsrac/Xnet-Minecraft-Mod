@@ -1,0 +1,8 @@
+OpenBlocks:infoBook,1,0
+TConstruct:manualBook,1,0
+Mariculture:guide,1,0
+SpiceOfLife:bookfoodjournal,1,0
+harvestcraft:frenchtoastItem,64,0
+harvestcraft:frenchtoastItem,64,0
+harvestcraft:frenchtoastItem,47,0
+harvestcraft:beansontoastItem,111,0
