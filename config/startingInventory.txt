@@ -1,8 +1,14 @@
-OpenBlocks:infoBook,1,0
-TConstruct:manualBook,1,0
-Mariculture:guide,1,0
-SpiceOfLife:bookfoodjournal,1,0
-harvestcraft:frenchtoastItem,64,0
-harvestcraft:frenchtoastItem,64,0
-harvestcraft:frenchtoastItem,47,0
-harvestcraft:beansontoastItem,111,0
+TConstruct:pickaxe,1,0,{InfiTool:{BaseDurability:60,Head:3,HeadEXP:0L,BaseAttack:3,ToolEXP:0L,Built:1b,HarvestLevel:0,Attack:3,RenderHead:3,ModDurability:0.0f,Handle:3,Broken:0b,Shoddy:0.0f,RenderHandle:3,Accessory:3,MiningSpeed:400,RenderAccessory:3,ToolLevel:1,HarvestLevelModified:0b,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:60,Modifiers:0},display:{Name:"§fFeuerstein Pickaxe"}}
+TConstruct:shovel,1,0,{InfiTool:{BaseDurability:60,Head:3,BaseAttack:4,ToolEXP:0L,Built:1b,HarvestLevel:1,Attack:4,RenderHead:3,ModDurability:0.0f,Handle:3,Broken:0b,Shoddy:0.0f,RenderHandle:3,MiningSpeed:400,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:60,Modifiers:0},display:{Name:"§fFeuerstein Shovel"}}
+TConstruct:hatchet,1,0,{InfiTool:{BaseDurability:60,Head:3,BaseAttack:5,ToolEXP:0L,Built:1b,HarvestLevel:1,Attack:5,RenderHead:3,ModDurability:0.0f,Handle:3,Broken:0b,Shoddy:0.0f,RenderHandle:3,MiningSpeed:400,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:60,Modifiers:0},display:{Name:"§fFeuerstein Hatchet"}}
+TConstruct:mattock,1,0,{InfiTool:{MiningSpeed2:400,BaseDurability:90,Head:3,BaseAttack:6,ToolEXP:0L,Built:1b,HarvestLevel:1,Attack:6,RenderHead:3,ModDurability:0.0f,Handle:3,Broken:0b,Shoddy:0.0f,RenderHandle:3,Accessory:3,MiningSpeed:400,RenderAccessory:3,ToolLevel:1,Unbreaking:0,Damage:0,HarvestLevel2:1,BonusDurability:0,TotalDurability:90,Modifiers:0},display:{Name:"§fFeuerstein Mattock"}}
+BinnieCore:containerGlass,1,405
+harvestcraft:blackberryjuiceItem,1,0
+BinnieCore:containerGlass,1,406
+BinnieCore:containerGlass,1,407
+TConstruct:knapsack,1,0
+harvestcraft:frenchtoastItem,8,0
+harvestcraft:toastsandwichItem,8,0
+harvestcraft:limejuiceItem,8,0
+harvestcraft:blackberryjuiceItem,8,0
+
