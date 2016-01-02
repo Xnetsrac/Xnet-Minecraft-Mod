@@ -33,6 +33,14 @@ recipes.removeShaped(<GalacticraftCore:item.canister:1> * 2, [[<ore:ingotCopper>
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:46>, [[<EnderIO:itemPowderIngot:5>]]);
+recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:46>, [[<EnderIO:itemPowderIngot:5>]]);
+recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:46>, [[<EnderIO:itemPowderIngot:5>]]);
+recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:46>, [[<EnderIO:itemPowderIngot:5>]]);
+recipes.addShaped(<ExtraUtilities:curtains> * 12, [[<minecraft:string>, <minecraft:wool>, <minecraft:string>], [<ore:blockCloth>, <ore:blockCloth>, <ore:blockCloth>], [<minecraft:string>, <minecraft:wool>, <minecraft:string>]]);
+recipes.addShaped(<ExtraUtilities:curtains> * 12, [[<minecraft:string>, <minecraft:wool>, <minecraft:string>], [<ore:blockCloth>, <ore:blockCloth>, <ore:blockCloth>], [<minecraft:string>, <minecraft:wool>, <minecraft:string>]]);
+recipes.addShaped(<GalacticraftCore:item.canister:1> * 2, [[<ore:ingotCopper>, null, <ore:ingotCopper>], [<TConstruct:materials:9>, <ore:compressedCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);
+recipes.addShaped(<GalacticraftCore:item.canister:1> * 2, [[<ore:ingotCopper>, null, <ore:ingotCopper>], [<TConstruct:materials:9>, <ore:compressedCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);
 recipes.addShaped(<GalacticraftCore:item.canister:1> * 2, [[<ThermalFoundation:material:64>, null, <ore:ingotCopper>], [<ThermalFoundation:material:64>, <ore:compressedCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);
 recipes.addShaped(<GalacticraftCore:item.canister:1> * 2, [[<ThermalFoundation:material:64>, null, <ore:ingotCopper>], [<ThermalFoundation:material:64>, <ore:compressedCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);
 recipes.addShaped(<GalacticraftCore:item.canister:1> * 2, [[<ThermalFoundation:material:64>, null, <ore:ingotCopper>], [<ThermalFoundation:material:64>, <ore:compressedCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);

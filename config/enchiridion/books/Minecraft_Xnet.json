@@ -1,0 +1,1758 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Xnetsrac_tv_Minecraft/logo.png",
+            "xPos": 41,
+            "yPos": 18,
+            "width": 145.0,
+            "height": 39.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": " Minecraft-Server",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FFB22222",
+            "xPos": 61,
+            "yPos": 56,
+            "width": 109.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Auf den folgenden Seiten findet Ihr \"Allgemeine Informationen\" und Regeln für ein entspanntes spielen auf unseren Minecraft-Server",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF000000",
+            "xPos": 31,
+            "yPos": 101,
+            "width": 167.0,
+            "height": 52.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "Xnetsrac_tv_Minecraft/xnet.png",
+            "xPos": 163,
+            "yPos": 177,
+            "width": 25.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Happy Mining",
+            "wrap": 0,
+            "size": 0.5999999,
+            "color": "FF000000",
+            "xPos": 157,
+            "yPos": 202,
+            "width": 49.0,
+            "height": 8.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\n\n\n\n\n\n\n               [u]Index[/u]",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF000000",
+            "xPos": 27,
+            "yPos": 20,
+            "width": 153.0,
+            "height": 183.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "1. Allgemeines\n\n2. Community\n\n3. Regelwerk",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 221,
+            "yPos": 29,
+            "width": 161.0,
+            "height": 54.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 225,
+            "yPos": 177,
+            "width": 76.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "3",
+            "texture": "",
+            "xPos": 220,
+            "yPos": 29,
+            "width": 76.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "4",
+            "texture": "",
+            "xPos": 220,
+            "yPos": 47,
+            "width": 76.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 219,
+            "yPos": 65,
+            "width": 76.0,
+            "height": 8.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "  [u]Allgemeines[/u]",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF000000",
+            "xPos": 78,
+            "yPos": 84,
+            "width": 92.0,
+            "height": 36.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Willkommen auf unseren Minecraftserver. \nWir möchten einen besonderen Server haben, daher wurden viele configs und Einstellungen gemacht, die unseren Server besonders und einmalig machen. \n\nUnser Motto lautet\n\"Ohne Fleiß kein Preis\"\n\nDas bedeutet, dass wenn jemand etwas erreichen will, auch was dafür tun muss.\n\nWir wollen kein Content-Server wo alles in kürzester Zeit erreicht werden muss, sondern möchten ein entspanntes Spiel und ein lockeres zusammen sein.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF000000",
+            "xPos": 220,
+            "yPos": 34,
+            "width": 179.0,
+            "height": 139.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 181,
+            "yPos": 205,
+            "width": 27.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 180,
+            "yPos": 205,
+            "width": 28.0,
+            "height": 6.0
+          }
+        }
+      ],
+      "pageName": "2"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Community[/u]",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF000000",
+            "xPos": 84,
+            "yPos": 98,
+            "width": 67.0,
+            "height": 30.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 182,
+            "yPos": 205,
+            "width": 26.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 179,
+            "yPos": 204,
+            "width": 31.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Unsere Community besteht nicht nur aus einem Forum oder den Minecraftserver, sondern es wird auch von mehreren Spielern auf Twitch gestreamt. \n\nAchtet bitte daher zwingend auf Eure Aussagen und Benehmen",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 23,
+            "width": 173.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Homepage:\n\nForum:\n\nTeamspeak:",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 233,
+            "yPos": 144,
+            "width": 43.0,
+            "height": 34.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "xnetsrac.tv\n\nxnetsrac.tv/forum\n\nteamspeak.xnetsrac.tv",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF800000",
+            "xPos": 274,
+            "yPos": 144,
+            "width": 80.0,
+            "height": 49.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Jeder Mitspieler ist verpflichtet sich im Forum zu regstrieren. Ebenfalls wird der Spieler angewiesen sich regelmäßig im Forum über Neuigkeiten, Infos und Events zu informieren",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF800000",
+            "xPos": 223,
+            "yPos": 77,
+            "width": 154.0,
+            "height": 36.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Regeln[/u]",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "",
+            "xPos": 86,
+            "yPos": 96,
+            "width": 78.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 177,
+            "yPos": 203,
+            "width": 32.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 177,
+            "yPos": 203,
+            "width": 30.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Auf den folgenden Seiten sind unsere Regeln verständlich niedergeschrieben.",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 43,
+            "yPos": 114,
+            "width": 155.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Regel-Index:",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF800000",
+            "xPos": 275,
+            "yPos": 17,
+            "width": 62.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "1. Allgemeine Regeln\n\n2. Community / Verhalten\n\n3. Gruppen\n\n4. Städte\n\n5. Handeln\n\n6. Tierfarmen\n\n7. Mobfarmen\n\n8. Pflanzenfarmen\n\n9. Portale/Dimensionen\n\n10. Events\n\n11. Sonstiges",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF555555",
+            "xPos": 218,
+            "yPos": 34,
+            "width": 148.0,
+            "height": 154.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "6",
+            "texture": "",
+            "xPos": 216,
+            "yPos": 33,
+            "width": 80.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "7",
+            "texture": "",
+            "xPos": 216,
+            "yPos": 48,
+            "width": 98.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "8",
+            "texture": "",
+            "xPos": 216,
+            "yPos": 62,
+            "width": 46.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "9",
+            "texture": "",
+            "xPos": 216,
+            "yPos": 76,
+            "width": 47.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "10",
+            "texture": "",
+            "xPos": 216,
+            "yPos": 91,
+            "width": 46.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "11",
+            "texture": "",
+            "xPos": 216,
+            "yPos": 105,
+            "width": 90.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "12",
+            "texture": "",
+            "xPos": 216,
+            "yPos": 120,
+            "width": 58.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "13",
+            "texture": "",
+            "xPos": 216,
+            "yPos": 133,
+            "width": 78.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "14",
+            "texture": "",
+            "xPos": 217,
+            "yPos": 148,
+            "width": 91.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "15",
+            "texture": "",
+            "xPos": 217,
+            "yPos": 162,
+            "width": 61.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "16",
+            "texture": "",
+            "xPos": 216,
+            "yPos": 176,
+            "width": 58.0,
+            "height": 7.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Allgemeine Regeln[/u]",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF000000",
+            "xPos": 63,
+            "yPos": 90,
+            "width": 145.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 178,
+            "yPos": 206,
+            "width": 32.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 121,
+            "yPos": 206,
+            "width": 47.0,
+            "height": 4.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 176,
+            "yPos": 206,
+            "width": 32.0,
+            "height": 4.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 119,
+            "yPos": 206,
+            "width": 52.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Es ist nicht gestattet die Server-Ip oder den Link des Modpacks an Nichtspielern weiterzugeben.\n\nFinden von Fehlern und/oder Bugs sind den Admins/Mods zu melden, und im Forum in dem vorgesehenden Bereich nieder zu schreiben.\nEine weitere Ausnutzung der Bugs oder \"Nichtmelden eines Bugs\" führt zum Ausschluss aus der Serverwhitelist",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF800000",
+            "xPos": 228,
+            "yPos": 35,
+            "width": 173.0,
+            "height": 103.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Community / Verhalten[/u]",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF000000",
+            "xPos": 47,
+            "yPos": 86,
+            "width": 183.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 177,
+            "yPos": 207,
+            "width": 32.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 121,
+            "yPos": 206,
+            "width": 46.0,
+            "height": 4.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 175,
+            "yPos": 206,
+            "width": 34.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 121,
+            "yPos": 206,
+            "width": 46.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Wir erwarten von jedem Mitspieler ein vernünftiges Verhalten\n\nBeleidigungen oder böswillige Behauptungen sind zu unterlassen, bei Problemen wendet Euch an einem Admin oder Mod, beachtet jedoch ob dieser gerade streamt.\n\nIm Teamspeak ist drauf zu achten, dass eine Gewisse Ruhe verbreitet wird. Lasst andere Ausreden und springt denen nicht ins Wort.\n\nBei volleren Channels gild folgende Rangordnung: Admin/Mods/Gruppenleiter/Sonstige",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF800000",
+            "xPos": 227,
+            "yPos": 23,
+            "width": 168.0,
+            "height": 159.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Gruppen[/u]",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF000000",
+            "xPos": 87,
+            "yPos": 93,
+            "width": 62.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 180,
+            "yPos": 206,
+            "width": 27.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 128,
+            "yPos": 206,
+            "width": 45.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 181,
+            "yPos": 205,
+            "width": 25.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 130,
+            "yPos": 206,
+            "width": 42.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Eine Gruppe darf aus maximal 3 Personen bestehen wobei einer als Gruppenleiter bestimmt wird.\n\nDer Gruppenleiter ist für Seine Gruppe der Verantwortliche und Ansprechpartner\n\nDie Gruppe überlegt sich einen sinvollen Gruppennamen und teilt diesen einen Admin/Mod mit\n\nJede Gruppe erhält im Teamspeak einen eigenen Gruppenchannel, der Gruppenleiter ist für diesen verantwortlich",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF800000",
+            "xPos": 227,
+            "yPos": 32,
+            "width": 174.0,
+            "height": 103.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Die Gruppengröße kann auf Grund besonderer Situationen und Absprachen geändert werden. Absprache nur mit einem Admin.",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF191970",
+            "xPos": 228,
+            "yPos": 168,
+            "width": 157.0,
+            "height": 20.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Städte[/u]",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF000000",
+            "xPos": 88,
+            "yPos": 93,
+            "width": 49.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 175,
+            "yPos": 206,
+            "width": 33.0,
+            "height": 4.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 121,
+            "yPos": 206,
+            "width": 47.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 176,
+            "yPos": 205,
+            "width": 29.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 119,
+            "yPos": 205,
+            "width": 48.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Eine Stadt ist der Punkt, wo sich eine Gruppe niederlässt um dort zu bauen.\n\nJede Gruppe darf nur eine Stadt unterhalten. \n\nDie Mittelpunkte verschiedener Städte müssen min. 2000 Blöcke auseinander sein.\n\nIn einem Blockradius von 1000 Blöcken um einen Stadtmittelpunkt ist es keinem anderen ohne Erlaubnis gestattet dort zu bauen.\n\nDer Gruppenleiter gibt seiner Stadt einen sinvollen Namen und teilt diesen einen Admin/Mod mit.\n\nDer Stadtmittelpunkt darf nicht zugebaut werden. Dieser Punkt dient dem Andmin zum schnellen teleport",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF000000",
+            "xPos": 221,
+            "yPos": 20,
+            "width": 179.0,
+            "height": 146.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Weitere Bauplätze einer Gruppe für Events oder Sonstiges mus mit dem Admin abgesprochen werden.",
+            "wrap": 0,
+            "size": 0.5999999,
+            "color": "FF0000CD",
+            "xPos": 221,
+            "yPos": 177,
+            "width": 146.0,
+            "height": 24.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Handeln[/u]",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF000000",
+            "xPos": 81,
+            "yPos": 95,
+            "width": 76.0,
+            "height": 14.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 176,
+            "yPos": 205,
+            "width": 32.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 124,
+            "yPos": 205,
+            "width": 46.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 177,
+            "yPos": 205,
+            "width": 30.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 125,
+            "yPos": 205,
+            "width": 44.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Der Handel/Tausch auf dem Server ist erwünscht.\n\nHandelsmöglichkeiten bieten nur der Briefkasten oder der Besuch bei dem Handelspartner.\n\nAndere Möglichkeiten sind ausgeschlossen oder nicht gewollt.\n\nEin Handel/Tausch ist dann rechtens wenn auch ein vernünftiger Gegenwert gehandelt wird. Eine Enderperle gegen ein Bruchstein ist ein Scheinhandel und strafbar.",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF555555",
+            "xPos": 229,
+            "yPos": 23,
+            "width": 166.0,
+            "height": 111.0
+          }
+        }
+      ],
+      "pageName": "brief"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Tierfarmen",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF000000",
+            "xPos": 77,
+            "yPos": 101,
+            "width": 99.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 180,
+            "yPos": 205,
+            "width": 27.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 131,
+            "yPos": 205,
+            "width": 47.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 180,
+            "yPos": 205,
+            "width": 30.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 131,
+            "yPos": 205,
+            "width": 41.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Pro Gruppe/Stadt ist eine Zucht von max 100 Tieren erlaubt\n\nJedes Tier benötigt eine Grundfläche von 5 Blöcken\n\nEin Tiergehege darf max. 10x10 Blöcke betragen (Freie Blöcke, steht zB eine Truhe in dem Gehege ist dieses kein Freier Block).\n\nDas Gehege muss \"Rechteckig sein\"\n\nEs sind keine Tiere auf Wasser zu züchten/Halten\n\nBei ungeraden Zahlen wird aufgerundet",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF000000",
+            "xPos": 221,
+            "yPos": 20,
+            "width": 180.0,
+            "height": 85.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Eine Tierfläche von 8x8 Blöcken,\ndemnach die Formel: \n\nLänge * Breite / 5 \n\n8*8 \u003d 64\n        64 / 5 \u003d 12,8 \u003d13\n\nAlso dürfen in einer 8x8 Fläche 13 Tiere gehalten werden",
+            "wrap": 0,
+            "size": 0.5999999,
+            "color": "FF555555",
+            "xPos": 219,
+            "yPos": 137,
+            "width": 146.0,
+            "height": 63.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Beispiel:",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FFFF0000",
+            "xPos": 219,
+            "yPos": 128,
+            "width": 30.0,
+            "height": 5.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Mobfarmen[/u]",
+            "wrap": 0,
+            "size": 1.2,
+            "color": "FF000000",
+            "xPos": 77,
+            "yPos": 95,
+            "width": 80.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 181,
+            "yPos": 206,
+            "width": 28.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 180,
+            "yPos": 206,
+            "width": 28.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 129,
+            "yPos": 206,
+            "width": 44.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 125,
+            "yPos": 206,
+            "width": 49.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Es gibt 2 Arten von Mobfarmen",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF000000",
+            "xPos": 222,
+            "yPos": 18,
+            "width": 142.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "1. Aktive Farmen",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF00008B",
+            "xPos": 222,
+            "yPos": 31,
+            "width": 94.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Aktive Farmen sind solche, die mit diversen Produkten betrieben werden müssen, wie zB Energie ",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 39,
+            "width": 183.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "2. Passive Farm",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF006400",
+            "xPos": 222,
+            "yPos": 56,
+            "width": 76.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Passive Farmen sind solche, wo Mobs aufgrund Umgebungseinflüsse spawnen zB \"Verfluchte Erde\"",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 222,
+            "yPos": 66,
+            "width": 128.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "ExtraUtilities:cursedearthside 0",
+            "xPos": 359,
+            "yPos": 68,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Jede Gruppe darf von jeder Farmart nur 1 Farm besitzen.",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF000000",
+            "xPos": 222,
+            "yPos": 93,
+            "width": 171.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Aktive Farmen (1 Spawner) dürfen max eine Fläche von 9x9 Blöcken haben und müssen abschaltbar sein",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF00008B",
+            "xPos": 222,
+            "yPos": 111,
+            "width": 171.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Passive Farmen dürfen max eine Fläche von 10x10 betragen und müssen deaktivierbar sein (zB durch Fackeln oder Lichtschaltungen",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF006400",
+            "xPos": 222,
+            "yPos": 133,
+            "width": 162.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Auch eine AUSGESCHLTETE Farm gild als Farm. Es dürfen keine 2 Spawnerfarmen plaziert werden, eine An und die Andere aus, es wären dann trotzdem 2 Farmen ",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FFFF0000",
+            "xPos": 233,
+            "yPos": 170,
+            "width": 156.0,
+            "height": 23.0
+          }
+        }
+      ],
+      "pageName": "ver"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Pflanzenfarm[/u]",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF000000",
+            "xPos": 70,
+            "yPos": 92,
+            "width": 117.0,
+            "height": 38.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 181,
+            "yPos": 205,
+            "width": 29.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 205,
+            "width": 45.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 181,
+            "yPos": 205,
+            "width": 27.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 127,
+            "yPos": 204,
+            "width": 47.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Jegliche Pflanzenfelder (Weizen,Kartoffeln,Reis usw.)\ndie KEINEN Extrablock unter der Erde benötigen dürfen max eien Größe von [u]5x5[/u] Blöcken haben und sind nur ein mal pro Gruppe erlaubt",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF000000",
+            "xPos": 219,
+            "yPos": 21,
+            "width": 188.0,
+            "height": 37.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Alle Pflanzenfelder die einen Extrablock (Diamant, Gold,Eisen usw.) unter sich benötigen dürfen in einer max Größe von [u]3x3[/u] Blöcken und nur [u]ein mal[/u] pro Gruppe plaziert werden. \n[u]Hier drunter zählen auch Enderlilis[/u]",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF0000CD",
+            "xPos": 219,
+            "yPos": 49,
+            "width": 174.0,
+            "height": 31.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Wachstumsbeschleuniger wie zB Sprinkleranlage, Botaniablume u.a. die das Wachstum beschleunigen sind erlaubt, jedoch darf der Wirkungskreis eines Beschleunigers nicht Mehrfach auf einem Block wirken.",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 219,
+            "yPos": 89,
+            "width": 176.0,
+            "height": 37.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Mechanische/elektronische Baumfarmen dürfen eine Maximale Größe von 12x12 Blöcken haben und sind nur einmal Pro Gruppe erlaubt",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FFFF0000",
+            "xPos": 219,
+            "yPos": 125,
+            "width": 174.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Jegliche Pflanzen zB Plünderungspflanze von Botania die Items heranschaffen, Erze generieren sind Pro Gruppe nur EIN mal gestattet",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FFFF8C00",
+            "xPos": 218,
+            "yPos": 147,
+            "width": 165.0,
+            "height": 33.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Botania:specialFlower {type:\"orechid\"}",
+            "xPos": 222,
+            "yPos": 183,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Botania:specialFlower {type:\"loonium\"}",
+            "xPos": 242,
+            "yPos": 183,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "u.s.w",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 262,
+            "yPos": 190,
+            "width": 22.0,
+            "height": 7.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Portale/Dimensionen[/u]",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF000000",
+            "xPos": 53,
+            "yPos": 90,
+            "width": 173.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 181,
+            "yPos": 205,
+            "width": 26.0,
+            "height": 4.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 205,
+            "width": 45.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 179,
+            "yPos": 204,
+            "width": 30.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 130,
+            "yPos": 204,
+            "width": 44.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Diverse Portale (Nether, Twilight Forrest usw) sind nur einmal Pro Gruppe/Stadt erlaubt.",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF555555",
+            "xPos": 226,
+            "yPos": 22,
+            "width": 170.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Das öffnen und hindurchgehen durch ein Portal ist mittels Textchat ingame und ggf im Teamspeak \"5 Minuten\" vorher anzumelden.",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF9400D3",
+            "xPos": 226,
+            "yPos": 50,
+            "width": 170.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Dieses gilt auch für Flüge zum Mond oder anderen Planeten",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FFDC143C",
+            "xPos": 226,
+            "yPos": 80,
+            "width": 165.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Pro Gruppe/Stadt sind \"2 RF-Dimensionen\" gestattet. Die erstellte Dimensions-ID ist einem Admin/Mod mitzuteilen",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF555555",
+            "xPos": 227,
+            "yPos": 102,
+            "width": 168.0,
+            "height": 30.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Dimensionen oder sonstiges die für die Community erstellt werden, sind vorher mit einem Admin zu besprechen und können von der Regel abweichen",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FFFF0000",
+            "xPos": 230,
+            "yPos": 161,
+            "width": 164.0,
+            "height": 28.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Events[/u]",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF000000",
+            "xPos": 85,
+            "yPos": 91,
+            "width": 67.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 182,
+            "yPos": 205,
+            "width": 27.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 129,
+            "yPos": 205,
+            "width": 46.0,
+            "height": 5.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 180,
+            "yPos": 205,
+            "width": 31.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 131,
+            "yPos": 204,
+            "width": 41.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Größere Events die von Gruppen veranstaltet werden, sind mit einem Admin abzusprechen",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF555555",
+            "xPos": 227,
+            "yPos": 22,
+            "width": 163.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Bei Events wird vorher über die durchführu.ng gesprochen u.a. erlaubte Items usw.",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF555555",
+            "xPos": 228,
+            "yPos": 57,
+            "width": 163.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "DAS Ende (Drache) ist ein Community-Event und wird vorher angekündigt. Es ist KEINER Gruppe gestattet \"Das Ende\" vorzeitig zu betreten.",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FFFF0000",
+            "xPos": 225,
+            "yPos": 97,
+            "width": 181.0,
+            "height": 46.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[u]Sonstiges[/u]",
+            "wrap": 0,
+            "size": 1.3000001,
+            "color": "FF000000",
+            "xPos": 80,
+            "yPos": 87,
+            "width": 104.0,
+            "height": 45.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Index-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 179,
+            "yPos": 205,
+            "width": 29.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-Regelindex-",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 125,
+            "yPos": 205,
+            "width": 46.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 178,
+            "yPos": 205,
+            "width": 27.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "5",
+            "texture": "",
+            "xPos": 126,
+            "yPos": 205,
+            "width": 43.0,
+            "height": 6.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Fürs Lava-Pumpen aus dem Nether ist nur kurzzeitig und beim Beisein die BC/IC Pumpe gestattet. Beim abpumpen auf längere Zeit und mit \"Personal-Anker ist NUR die Ender-Thermiepumpe erlaubt",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF555555",
+            "xPos": 226,
+            "yPos": 26,
+            "width": 173.0,
+            "height": 31.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "PvP ist nur in dafür vorgesehenden Arenen erlaubt und muss vorher mit einem Admin/Mod ebgesprochen werden",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF00008B",
+            "xPos": 227,
+            "yPos": 65,
+            "width": 179.0,
+            "height": 14.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Kraftwerke (Big-Raktor) kann nur in einer Größe von 9*9 gebaut werden und nur einmal pro Gruppe/Stadt",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FFFF0000",
+            "xPos": 227,
+            "yPos": 91,
+            "width": 165.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Sonstige AKW (IC2) sind VERBOTEN und sind ausschließlich nur mit Absprache eines Admins zu bauen",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FF9932CC",
+            "xPos": 229,
+            "yPos": 144,
+            "width": 166.0,
+            "height": 40.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    }
+  ],
+
+  "uniqueName": "Minecraft_Xnet",
+  "color": 16777215,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0,
+  "language": "de_DE",
+  "displayName": "Minecraft_Xnet",
+  "displayInCreative": true
+}
