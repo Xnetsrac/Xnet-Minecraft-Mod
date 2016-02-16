@@ -1,0 +1,14 @@
+{
+	"name": "Trinken",
+	"food": {
+		"items": [
+			"harvestcraft:applejuiceItem"
+		]
+	},
+	"blacklist": true
+}
+
+
+
+
+

@@ -1,0 +1,8 @@
+Enchiridion2:book,1,0,{identifier:"Minecraft_Xnet"}
+TConstruct:pickaxe,1,0,{InfiTool:{BaseDurability:121,Head:3,HeadEXP:0L,BaseAttack:3,ToolEXP:0L,HarvestLevel:0,Attack:3,RenderHead:3,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.0f,RenderHandle:0,Accessory:9,MiningSpeed:400,RenderAccessory:9,ToolLevel:1,HarvestLevelModified:0b,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:121,Modifiers:1},display:{Name:"§fFlint Pickaxe"}}
+TConstruct:hatchet,1,0,{InfiTool:{BaseDurability:121,Head:3,BaseAttack:5,ToolEXP:0L,HarvestLevel:1,Attack:5,RenderHead:3,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.0f,RenderHandle:0,MiningSpeed:400,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:121,Modifiers:0},display:{Name:"§fFlint Hatchet"}}
+TConstruct:shovel,1,0,{InfiTool:{BaseDurability:121,Head:3,BaseAttack:4,ToolEXP:0L,HarvestLevel:1,Attack:4,RenderHead:3,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.0f,RenderHandle:0,MiningSpeed:400,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:121,Modifiers:0},display:{Name:"§fFlint Shovel"}}
+TConstruct:mattock,1,0,{InfiTool:{MiningSpeed2:400,BaseDurability:181,Head:3,BaseAttack:6,ToolEXP:0L,HarvestLevel:1,Attack:6,RenderHead:3,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.0f,RenderHandle:0,Accessory:3,MiningSpeed:400,RenderAccessory:3,ToolLevel:1,Unbreaking:0,Damage:0,HarvestLevel2:1,BonusDurability:0,TotalDurability:181,Modifiers:0},display:{Name:"§fFlint Mattock"}}
+harvestcraft:hamburgerItem,64,0
+harvestcraft:applejuiceItem,16,0
+TConstruct:knapsack,1,0
