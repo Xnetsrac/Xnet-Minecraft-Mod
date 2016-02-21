@@ -7,11 +7,40 @@ backpacks {
     miner {
         # Add itemStacks for the miner's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
         S:item.stacks <
-            BiomesOPlenty:ashStone
+            Railcraft:cube:0
+            Railcraft:cube:10
+            Railcraft:cube:11
+            Railcraft:cube:2
+            Railcraft:cube:9
+            Railcraft:dust:0
+            Railcraft:dust:1
+            Railcraft:dust:2
+            Railcraft:dust:3
+            Railcraft:ingot:0
+            Railcraft:ingot:1
+            Railcraft:ingot:2
+            Railcraft:ingot:3
+            Railcraft:nugget:0
+            Railcraft:nugget:1
+            Railcraft:nugget:2
+            Railcraft:nugget:3
+            Railcraft:nugget:4
+            Railcraft:ore:0
+            Railcraft:ore:1
+            Railcraft:ore:10
+            Railcraft:ore:11
+            Railcraft:ore:2
+            Railcraft:ore:3
+            Railcraft:ore:4
+            Railcraft:ore:5
+            Railcraft:ore:6
+            Railcraft:ore:7
+            Railcraft:ore:8
+            Railcraft:ore:9
+         >
+        S:itemStacks <
             BiomesOPlenty:ashStone:0
-            BiomesOPlenty:cragRock
             BiomesOPlenty:cragRock:0
-            BiomesOPlenty:driedDirt
             BiomesOPlenty:driedDirt:0
             BiomesOPlenty:gemOre:0
             BiomesOPlenty:gemOre:10
@@ -22,7 +51,6 @@ backpacks {
             BiomesOPlenty:gemOre:6
             BiomesOPlenty:gemOre:8
             BiomesOPlenty:gems
-            BiomesOPlenty:overgrownNetherrack
             BiomesOPlenty:overgrownNetherrack:0
             Forestry:brokenBronzePickaxe:0
             Forestry:bronzePickaxe:0
@@ -64,6 +92,8 @@ backpacks {
 
         # Add ore dictionary names for the miner's backpack here in the format 'oreDictName'.
         S:ore.dict <
+         >
+        S:oreDict <
             clusterCinnabar
             clusterCopper
             clusterGold
@@ -85,20 +115,26 @@ backpacks {
             crushedSilver
             crushedTin
             crushedUranium
+            denseoreAluminum
             denseoreCoal
+            denseoreCopper
             denseoreDiamond
             denseoreEmerald
             denseoreGold
             denseoreIron
             denseoreLapis
+            denseoreLead
+            denseoreNickel
+            denseorePlatinum
             denseoreQuartz
             denseoreRedstone
+            denseoreSilver
+            denseoreUranium
             dustAerotheum
             dustAluminium
             dustAluminiumBrass
             dustAluminum
             dustAluminumBrass
-            dustAlumite
             dustArdite
             dustAsh
             dustAshes
@@ -139,7 +175,6 @@ backpacks {
             dustLithium
             dustLudicrite
             dustLumium
-            dustMagnesium
             dustManyullyn
             dustMithril
             dustNetherQuartz
@@ -152,7 +187,6 @@ backpacks {
             dustPyrotheum
             dustQuartz
             dustRedstone
-            dustRutile
             dustSalt
             dustSaltpeter
             dustSawdust
@@ -233,12 +267,10 @@ backpacks {
             ingotLead
             ingotLudicrite
             ingotLumium
-            ingotMagnesium
             ingotManasteel
             ingotManyullyn
             ingotMeat
             ingotMeatRaw
-            ingotMeteoricIron
             ingotMithril
             ingotNickel
             ingotObsidian
@@ -248,12 +280,10 @@ backpacks {
             ingotPlatinum
             ingotPlutonium
             ingotPokefennium
-            ingotPulsatingIron
             ingotRedAlloy
             ingotRed_aurum
             ingotRedstoneAlloy
             ingotRefinedIron
-            ingotRutile
             ingotSignalum
             ingotSilver
             ingotSoularium
@@ -265,7 +295,6 @@ backpacks {
             ingotTungsten
             ingotUnstable
             ingotUranium
-            ingotVibrantAlloy
             ingotVoid
             ingotYellorium
             ingotZinc
@@ -280,18 +309,17 @@ backpacks {
             nuggetConstantan
             nuggetCopper
             nuggetCupronickel
+            nuggetCyanite
             nuggetDiamond
             nuggetElectrum
             nuggetElectrumFlux
             nuggetElvenElementium
-            nuggetEmerald
             nuggetEnderium
             nuggetGold
             nuggetInvar
             nuggetIron
             nuggetLead
             nuggetLumium
-            nuggetMagnesium
             nuggetManasteel
             nuggetManyullyn
             nuggetMeat
@@ -302,55 +330,47 @@ backpacks {
             nuggetPigIron
             nuggetPlatinum
             nuggetPulsatingIron
-            nuggetQuartz
             nuggetQuicksilver
-            nuggetRutile
             nuggetSignalum
             nuggetSilver
             nuggetSteel
             nuggetTerrasteel
             nuggetThaumium
             nuggetTin
-            nuggetTitanium
+            nuggetTungsten
             nuggetUnstable
+            nuggetUranium235
             nuggetVibrantAlloy
             nuggetVoid
             oreAluminium
             oreAluminum
-            oreAluminumBrass
-            oreAlumite
             oreAmber
             oreApatite
             oreArdite
             oreCertusQuartz
             oreChargedCertusQuartz
-            oreCheese
             oreCinnabar
             oreCoal
             oreCobalt
             oreCopper
-            oreDesh
             oreDiamond
             oreEmerald
             oreEssence
             oreFirestone
             oreGold
-            oreIlmenite
             oreInfusedAir
             oreInfusedEarth
             oreInfusedEntropy
             oreInfusedFire
             oreInfusedOrder
             oreInfusedWater
-            oreInvar
+            oreIridium
             oreIron
             oreLapis
             oreLead
-            oreMagnesium
             oreMalachite
-            oreManyullyn
             oreMithril
-            oreNaturalAluminum
+            oreNetherAdamantium
             oreNetherAmber
             oreNetherCoal
             oreNetherCopper
@@ -361,23 +381,31 @@ backpacks {
             oreNetherIron
             oreNetherLapis
             oreNetherLead
+            oreNetherMagnesium
+            oreNetherMithril
             oreNetherNickel
+            oreNetherNikolite
+            oreNetherOsmium
             oreNetherPeridot
+            oreNetherPlatinum
             oreNetherRedstone
             oreNetherRuby
+            oreNetherRutile
             oreNetherSalt
             oreNetherSaltpeter
             oreNetherSapphire
             oreNetherSilver
             oreNetherSteel
             oreNetherSulfur
+            oreNetherTennantite
             oreNetherTin
+            oreNetherTitanium
+            oreNetherTungsten
             oreNetherUranium
             oreNickel
-            oreObsidian
-            oreOsmium
             orePeridot
             orePlatinum
+            orePlutonium
             orePoorCopper
             orePoorGold
             orePoorIron
@@ -386,11 +414,9 @@ backpacks {
             oreQuartz
             oreRedstone
             oreRuby
-            oreRutile
             oreSalt
             oreSaltpeter
             oreSapphire
-            oreSilicon
             oreSilver
             oreSteel
             oreSulfur
@@ -407,20 +433,21 @@ backpacks {
     digger {
         # Add itemStacks for the digger's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
         S:item.stacks <
-            BiomesOPlenty:ash
+            Railcraft:cube:6
+            Railcraft:cube:7
+            chisel:andesite:0
+            chisel:diorite:0
+            chisel:granite:0
+            chisel:limestone:0
+            chisel:marble:0
+         >
+        S:itemStacks <
             BiomesOPlenty:ash:0
             BiomesOPlenty:bopGrass
-            BiomesOPlenty:hardDirt
             BiomesOPlenty:hardDirt:0
-            BiomesOPlenty:hardSand
             BiomesOPlenty:hardSand:0
-            BiomesOPlenty:longGrass
             BiomesOPlenty:longGrass:0
-            BiomesOPlenty:mud
             BiomesOPlenty:mud:0
-            BiomesOPlenty:newBopDirt
-            BiomesOPlenty:newBopGrass
-            BiomesOPlenty:originGrass
             BiomesOPlenty:originGrass:0
             Forestry:brokenBronzeShovel:0
             Forestry:bronzeShovel:0
@@ -443,6 +470,8 @@ backpacks {
 
         # Add ore dictionary names for the digger's backpack here in the format 'oreDictName'.
         S:ore.dict <
+         >
+        S:oreDict <
             cobblestone
             sand
             stone
@@ -485,6 +514,12 @@ backpacks {
     forester {
         # Add itemStacks for the forester's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
         S:item.stacks <
+            IC2:blockRubLeaves:0
+            IC2:blockRubSapling:0
+            IC2:itemHarz:0
+            IC2:itemRubber:0
+         >
+        S:itemStacks <
             BiomesOPlenty:appleLeaves
             BiomesOPlenty:bamboo
             BiomesOPlenty:colorizedLeaves1
@@ -522,6 +557,8 @@ backpacks {
 
         # Add ore dictionary names for the forester's backpack here in the format 'oreDictName'.
         S:ore.dict <
+         >
+        S:oreDict <
             cropASparagus
             cropAcorn
             cropAllium
@@ -530,7 +567,6 @@ backpacks {
             cropApricot
             cropArtichoke
             cropAsparagus
-            cropAurigold
             cropAvocado
             cropBambooshoot
             cropBanana
@@ -538,7 +574,6 @@ backpacks {
             cropBean
             cropBeechnut
             cropBeet
-            cropBelladonna
             cropBellpepper
             cropBlackCherry
             cropBlackberry
@@ -579,7 +614,6 @@ backpacks {
             cropCherryPlum
             cropChestnut
             cropChilipepper
-            cropCinderpearl
             cropCinnamon
             cropCitron
             cropClove
@@ -590,47 +624,36 @@ backpacks {
             cropCrabapple
             cropCranberry
             cropCucumber
-            cropCuprosia
-            cropCurryleaf
             cropDaisy
             cropDandelion
             cropDate
-            cropDiamahlia
             cropDragonfruit
             cropDurian
             cropEdibleroot
             cropEggplant
             cropElderberry
-            cropEmeryllis
-            cropFerranium
             cropFig
             cropFingerLime
             cropGarlic
             cropGinger
             cropGingkoNut
-            cropGooseberry
             cropGrape
             cropGrapefruit
             cropHazelnut
             cropHops
-            cropJaslumine
             cropKeyLime
             cropKiwi
             cropKumquat
-            cropLapender
             cropLeek
             cropLemon
             cropLettuce
             cropLime
             cropManderin
-            cropMandrake
             cropMango
             cropMaplesyrup
             cropMelon
             cropMustard
             cropNectarine
-            cropNiccissus
-            cropNitorWart
             cropNutmeg
             cropOats
             cropOkra
@@ -648,23 +671,18 @@ backpacks {
             cropPecan
             cropPeppercorn
             cropPersimmon
-            cropPetinia
             cropPineapple
             cropPistachio
             cropPlantain
-            cropPlatiolus
-            cropPlombean
             cropPlum
             cropPomegranate
             cropPomelo
             cropPoppy
             cropPotato
             cropPumpkin
-            cropQuartzanthemum
             cropRadish
             cropRaspberry
             cropRedBanana
-            cropRedstodendron
             cropRhubarb
             cropRice
             cropRutabaga
@@ -673,13 +691,8 @@ backpacks {
             cropSatsuma
             cropScallion
             cropSeaweed
-            cropSesame
-            cropSesameseed
-            cropShimmerleaf
             cropShroomBrown
             cropShroomRed
-            cropSilverweed
-            cropSnowbell
             cropSourCherry
             cropSoybean
             cropSpiceleaf
@@ -689,7 +702,6 @@ backpacks {
             cropSugarcane
             cropSunflower
             cropSweetpotato
-            cropTaintedRoot
             cropTangerine
             cropTea
             cropTomato
@@ -699,30 +711,21 @@ backpacks {
             cropTulipWhite
             cropTurnip
             cropVanillabean
-            cropVishroom
             cropWalnut
-            cropWaterArtichoke
-            cropWaterchestnut
             cropWheat
             cropWhitemushroom
             cropWildCherry
-            cropWildcarrots
             cropWintersquash
-            cropWitchGarlic
-            cropWolfsbane
-            cropWormwood
             cropZucchini
             logWood
             saplingTree
             seedAllium
             seedArtichoke
             seedAsparagus
-            seedAurigold
             seedBambooshoot
             seedBarley
             seedBean
             seedBeet
-            seedBelladonna
             seedBellpepper
             seedBlackberry
             seedBlueberry
@@ -753,34 +756,22 @@ backpacks {
             seedCauliflower
             seedCelery
             seedChilipepper
-            seedCinderpearl
             seedCoffee
             seedCorn
             seedCotton
             seedCranberry
             seedCucumber
-            seedCuprosia
-            seedCurryleaf
             seedDaisy
             seedDandelion
-            seedDiamahlia
             seedEggplant
-            seedEmeryllis
-            seedFerranium
             seedGarlic
             seedGinger
             seedGrape
             seedIndustrialHemp
-            seedJaslumine
             seedKiwi
-            seedLapender
             seedLeek
             seedLettuce
-            seedMandrake
-            seedMelon
             seedMustard
-            seedNiccissus
-            seedNitorWart
             seedOats
             seedOkra
             seedOnion
@@ -788,17 +779,11 @@ backpacks {
             seedParsnip
             seedPeanut
             seedPeas
-            seedPetinia
             seedPineapple
-            seedPlatiolus
-            seedPlombean
             seedPoppy
             seedPotato
-            seedPumpkin
-            seedQuartzanthemum
             seedRadish
             seedRaspberry
-            seedRedstodendron
             seedRhubarb
             seedRice
             seedRoasted
@@ -806,19 +791,14 @@ backpacks {
             seedRye
             seedScallion
             seedSeaweed
-            seedSesameseed
-            seedShimmerleaf
             seedShroomBrown
             seedShroomRed
-            seedSilverweed
-            seedSnowbell
             seedSoybean
             seedSpiceleaf
             seedSpinach
             seedStrawberry
             seedSugarcane
             seedSweetpotato
-            seedTaintedRoot
             seedTea
             seedTomato
             seedTulipOrange
@@ -826,15 +806,9 @@ backpacks {
             seedTulipRed
             seedTulipWhite
             seedTurnip
-            seedVishroom
-            seedWaterArtichoke
-            seedWaterchestnut
             seedWheat
             seedWhitemushroom
             seedWintersquash
-            seedWitchGarlic
-            seedWolfsbane
-            seedWormwood
             seedZucchini
             stickWood
             treeLeaves
@@ -846,6 +820,8 @@ backpacks {
     hunter {
         # Add itemStacks for the hunter's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
         S:item.stacks <
+         >
+        S:itemStacks <
             minecraft:arrow:0
             minecraft:beef:0
             minecraft:blaze_powder:0
@@ -888,21 +864,170 @@ backpacks {
         # Add ore dictionary names for the hunter's backpack here in the format 'oreDictName'.
         S:ore.dict <
          >
+        S:oreDict <
+         >
     }
 
     adventurer {
         # Add itemStacks for the adventurer's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
         S:item.stacks <
          >
+        S:itemStacks <
+         >
 
         # Add ore dictionary names for the adventurer's backpack here in the format 'oreDictName'.
         S:ore.dict <
+         >
+        S:oreDict <
          >
     }
 
     builder {
         # Add itemStacks for the builder's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
         S:item.stacks <
+            Railcraft:anvil
+            Railcraft:brick.abyssal
+            Railcraft:brick.bleachedbone
+            Railcraft:brick.bloodstained
+            Railcraft:brick.frostbound
+            Railcraft:brick.infernal
+            Railcraft:brick.nether
+            Railcraft:brick.quarried
+            Railcraft:brick.sandy
+            Railcraft:cube:1
+            Railcraft:cube:8
+            Railcraft:frame
+            Railcraft:glass
+            Railcraft:lantern.metal:0
+            Railcraft:lantern.metal:1
+            Railcraft:lantern.metal:2
+            Railcraft:lantern.metal:3
+            Railcraft:lantern.metal:4
+            Railcraft:lantern.metal:5
+            Railcraft:lantern.stone:0
+            Railcraft:lantern.stone:1
+            Railcraft:lantern.stone:2
+            Railcraft:lantern.stone:3
+            Railcraft:lantern.stone:4
+            Railcraft:lantern.stone:5
+            Railcraft:lantern.stone:6
+            Railcraft:lantern.stone:7
+            Railcraft:lantern.stone:8
+            Railcraft:lantern.stone:9
+            Railcraft:post
+            Railcraft:post.metal
+            Railcraft:post.metal.platform
+            Railcraft:slab:0
+            Railcraft:slab:1
+            Railcraft:slab:10
+            Railcraft:slab:11
+            Railcraft:slab:12
+            Railcraft:slab:13
+            Railcraft:slab:14
+            Railcraft:slab:15
+            Railcraft:slab:16
+            Railcraft:slab:17
+            Railcraft:slab:18
+            Railcraft:slab:19
+            Railcraft:slab:2
+            Railcraft:slab:20
+            Railcraft:slab:21
+            Railcraft:slab:22
+            Railcraft:slab:23
+            Railcraft:slab:24
+            Railcraft:slab:25
+            Railcraft:slab:26
+            Railcraft:slab:27
+            Railcraft:slab:28
+            Railcraft:slab:29
+            Railcraft:slab:30
+            Railcraft:slab:31
+            Railcraft:slab:32
+            Railcraft:slab:33
+            Railcraft:slab:34
+            Railcraft:slab:35
+            Railcraft:slab:36
+            Railcraft:slab:37
+            Railcraft:slab:38
+            Railcraft:slab:39
+            Railcraft:slab:40
+            Railcraft:slab:41
+            Railcraft:slab:42
+            Railcraft:slab:43
+            Railcraft:slab:5
+            Railcraft:slab:6
+            Railcraft:slab:7
+            Railcraft:slab:8
+            Railcraft:slab:9
+            Railcraft:stair:0
+            Railcraft:stair:1
+            Railcraft:stair:10
+            Railcraft:stair:11
+            Railcraft:stair:12
+            Railcraft:stair:13
+            Railcraft:stair:14
+            Railcraft:stair:15
+            Railcraft:stair:16
+            Railcraft:stair:17
+            Railcraft:stair:18
+            Railcraft:stair:19
+            Railcraft:stair:2
+            Railcraft:stair:20
+            Railcraft:stair:21
+            Railcraft:stair:22
+            Railcraft:stair:23
+            Railcraft:stair:24
+            Railcraft:stair:25
+            Railcraft:stair:26
+            Railcraft:stair:27
+            Railcraft:stair:28
+            Railcraft:stair:29
+            Railcraft:stair:30
+            Railcraft:stair:31
+            Railcraft:stair:32
+            Railcraft:stair:33
+            Railcraft:stair:34
+            Railcraft:stair:35
+            Railcraft:stair:36
+            Railcraft:stair:37
+            Railcraft:stair:38
+            Railcraft:stair:39
+            Railcraft:stair:40
+            Railcraft:stair:41
+            Railcraft:stair:42
+            Railcraft:stair:43
+            Railcraft:stair:5
+            Railcraft:stair:6
+            Railcraft:stair:7
+            Railcraft:stair:8
+            Railcraft:stair:9
+            Railcraft:wall.alpha:0
+            Railcraft:wall.alpha:1
+            Railcraft:wall.alpha:10
+            Railcraft:wall.alpha:11
+            Railcraft:wall.alpha:12
+            Railcraft:wall.alpha:13
+            Railcraft:wall.alpha:14
+            Railcraft:wall.alpha:15
+            Railcraft:wall.alpha:2
+            Railcraft:wall.alpha:3
+            Railcraft:wall.alpha:4
+            Railcraft:wall.alpha:5
+            Railcraft:wall.alpha:6
+            Railcraft:wall.alpha:7
+            Railcraft:wall.alpha:8
+            Railcraft:wall.alpha:9
+            Railcraft:wall.beta:0
+            Railcraft:wall.beta:1
+            Railcraft:wall.beta:2
+            Railcraft:wall.beta:3
+            Railcraft:wall.beta:4
+            Railcraft:wall.beta:5
+            Railcraft:wall.beta:6
+            Railcraft:wall.beta:7
+            Railcraft:wall.beta:8
+         >
+        S:itemStacks <
             Forestry:candle
             Forestry:stump
             Railcraft:anvil
@@ -1072,12 +1197,13 @@ backpacks {
 
         # Add ore dictionary names for the builder's backpack here in the format 'oreDictName'.
         S:ore.dict <
+         >
+        S:oreDict <
             blockAluminium
             blockAluminiumBrass
             blockAluminum
             blockAluminumBrass
             blockAlumite
-            blockAmber
             blockAndesite
             blockApatite
             blockArdite
@@ -1085,6 +1211,7 @@ backpacks {
             blockBlutonium
             blockBronze
             blockCarpet
+            blockCharcoal
             blockCloth
             blockClothRock
             blockCoal
@@ -1123,6 +1250,7 @@ backpacks {
             blockEnergeticAlloy
             blockFairy
             blockFuelCoke
+            blockGlass
             blockGlass
             blockGlassBlack
             blockGlassBlue
@@ -1169,12 +1297,9 @@ backpacks {
             blockLapisWhite
             blockLapisYellow
             blockLead
-            blockLimestone
             blockLudicrite
             blockLumium
             blockMagicWood
-            blockMagnesium
-            blockMalachite
             blockManyullyn
             blockMarble
             blockMeat
@@ -1183,14 +1308,12 @@ backpacks {
             blockNickel
             blockObsidian
             blockPackedIce
-            blockPeridot
             blockPhasedGold
             blockPhasedIron
             blockPlastic
             blockPlatinum
             blockPokefennium
             blockPrismarine
-            blockPulsatingIron
             blockQuartz
             blockRed_aurum
             blockRedstone
@@ -1212,9 +1335,6 @@ backpacks {
             blockRedstoneWhite
             blockRedstoneYellow
             blockRubber
-            blockRuby
-            blockRutile
-            blockSapphire
             blockSignalum
             blockSilver
             blockSlime
@@ -1223,14 +1343,10 @@ backpacks {
             blockSoularium
             blockStainedHardenedClay
             blockSteel
-            blockTanzanite
             blockTin
-            blockTitanium
-            blockTopaz
             blockTorch
             blockUnstable
             blockUranium
-            blockVibrantAlloy
             blockWaterstone
             blockWool
             blockWoolBlack
