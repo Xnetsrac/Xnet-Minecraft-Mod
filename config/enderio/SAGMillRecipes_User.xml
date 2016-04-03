@@ -97,5 +97,7 @@
 -->
 
 <SAGMillRecipes>
-
+	<recipeGroup name="Nether Ores" >
+		<recipe name="NetherSteel" />
+	</recipeGroup>
 </SAGMillRecipes>

@@ -1,0 +1,2 @@
+mods.immersiveengineering.Refinery.addRecipe(<liquid:fuel> * 1, <liquid:creosote> * 3, <liquid:coal> * 3);
+mods.immersiveengineering.Refinery.addRecipe(<liquid:biodiesel> * 1, <liquid:creosote> * 2, <liquid:ethanol> * 2);

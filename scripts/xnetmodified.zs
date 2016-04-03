@@ -26,10 +26,14 @@ recipes.removeShaped(<minecraft:bread> * 1, [[<minecraft:wheat> * 1, <minecraft:
 
 recipes.remove(<ExtraUtilities:curtains>);
 
+recipes.remove(<rftools:environmentalControllerBlock>);
+
+recipes.remove(<BigReactors:BRIngot:1>);
+
 
 furnace.remove(<minecraft:bread>);
 furnace.addRecipe(<minecraft:bread> * 1, <harvestcraft:doughItem> * 1, 0);
-//mods.thermalexpansion.Furnace.removeRecipe(<EnderIO:itemPowderIngot:8>);
+mods.thermalexpansion.Furnace.removeRecipe(<EnderIO:itemPowderIngot:8>);
 
 recipes.remove(<ChickenChunks:chickenChunkLoader>);
 recipes.remove(<ChickenChunks:chickenChunkLoader:1>);
@@ -39,4 +43,4 @@ recipes.addShaped(<ExtraUtilities:curtains> * 12, [[<minecraft:string>, <ore:blo
 recipes.addShapeless(<ProjRed|Core:projectred.core.part:56>, [<minecraft:redstone>, <minecraft:dye:4>, <minecraft:glowstone_dust>]);
 //Carpenter
 //OutputStack, InputArray, InputFluid, Time in Ticks, BoxStack
-//mods.forestry.Carpenter.addRecipe(<Forestry:stamps:4> * 9, [[<ore:gemDiamond>, <ore:gemDiamond>, <ore:gemDiamond>], [<minecraft:paper>, <minecraft:paper>, <minecraft:paper>]], <liquid:seedoil> * 300, 20,<minecraft:log>);
+//mods.forestry.Carpenter.addRecipe(<Forestry:stamps:4> * 9, [[<ore:gemDiamond>, <ore:gemDiamond>, <ore:gemDiamond>], [<minecraft:paper>, <minecraft:paper>, <minecraft:paper>]], <liquid:seedoil> * 300, 20, null);
